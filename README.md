@@ -6,6 +6,8 @@ The data should be unzipped into a folder called "CourseProject" within the R wo
 
 Codebook.mb --> Contains information on the variables contained in the tidy data set. 
 
+CourseProject.txt --> The resulting tidy data set
+
 You can find a detailed explanation of how run_analysis.R works in the comments of the R script itself
 
 
